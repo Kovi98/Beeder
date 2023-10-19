@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Beeder.Api.Data
+namespace Beeder.Infrastructure.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
