@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h2vGQD6nMqr4H6/U5EvPt2p5R4WS1Uf29/GkJtuCi96rC8T5v8d8XsGXpaTUcVrV2ARTGBl4q4VSAzpDgPpiqw==",
+  "dgSpecHash": "TTXv2/83/BvymGxkEJa2o3M/QBXF/MOUjN1EuaVldFMj60kWsu0f/6JfFQTyRao9gAqEkxSRpQYr7Lk9xy+GzQ==",
   "success": true,
-  "projectFilePath": "C:\\repository\\personal\\Beeder\\Beeder.Api\\Beeder.Api.csproj",
+  "projectFilePath": "C:\\repository\\personal\\Beeder\\src\\Beeder.Api\\Beeder.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pekar\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\pekar\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

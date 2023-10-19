@@ -3913,11 +3913,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repository\\personal\\Beeder\\Beeder.Api\\Beeder.Api.csproj",
+      "projectUniqueName": "C:\\repository\\personal\\Beeder\\src\\Beeder.Api\\Beeder.Api.csproj",
       "projectName": "Beeder.Api",
-      "projectPath": "C:\\repository\\personal\\Beeder\\Beeder.Api\\Beeder.Api.csproj",
+      "projectPath": "C:\\repository\\personal\\Beeder\\src\\Beeder.Api\\Beeder.Api.csproj",
       "packagesPath": "C:\\Users\\pekar\\.nuget\\packages\\",
-      "outputPath": "C:\\repository\\personal\\Beeder\\Beeder.Api\\obj\\",
+      "outputPath": "C:\\repository\\personal\\Beeder\\src\\Beeder.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
